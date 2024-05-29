@@ -2,6 +2,9 @@
 # Backend-Stratx
 This project is code for backend of CRUD app written in NodeJs,Express,Prisma ORM
 
+## Demo Video Link
+https://drive.google.com/file/d/14Rj7_dd-_2sgVPxoz8L3Y0ueX8UYEeDQ/view?usp=sharing
+
 ##  Prerequisites
  NodeJs and NPM installed
 
