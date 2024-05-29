@@ -11,7 +11,8 @@ This project is code for backend of CRUD app written in NodeJs,Express,Prisma OR
 Clone project with git
 
 ```bash
-  cd project-directory
+  git clone https://github.com/ABW1729/stratx.git 
+  cd stratx
   npm install 
 ```
 
