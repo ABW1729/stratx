@@ -18,7 +18,8 @@ Clone project with git
 
 ## Environment Variables
 
-#### DATABASE_URL="mysql://username:password@localhost:3306/bookstore"   JWT=your_jwt_secret
+#### DATABASE_URL="mysql://username:password@localhost:3306/bookstore"   
+JWT=your_jwt_secret
 
 ## Prisma Initialization
 
